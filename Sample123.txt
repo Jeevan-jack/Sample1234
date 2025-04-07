@@ -1,2 +1,6 @@
 Hello KJC
+<<<<<<< HEAD
 IV BCA B
+=======
+demo  123
+>>>>>>> dev2
